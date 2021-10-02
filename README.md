@@ -8,7 +8,7 @@
 > my first C project!, alomost use all C basic contents for practice, including struct, linklist, files, and basic graphic library usage.
 > also know the working system of recall functions and trigger event.
 
-## how to us
+## how to use
 
 > click **acllibl.exe** and run & play
 
