@@ -12,6 +12,7 @@
 
 > click **acllibl.exe** and run & play
 
+![images](https://github.com/DAZHAdazha/C--UFOvsTANK-game-/blob/master/1.jpg)
 
 # 飞碟大战坦克小游戏
 
@@ -25,4 +26,4 @@
 
 > 点击**acllibl.exe**文件运行即可
 
-![images](https://github.com/DAZHAdazha/C--UFOvsTANK-game-/blob/master/1.jpg)
+
