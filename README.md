@@ -1,3 +1,18 @@
+# UFOvsTANK game
+
+## my first game based on C
+
+> techniques: C and Acillib library
+>
+> my gain:
+> my first C project!, alomost use all C basic contents for practice, including struct, linklist, files, and basic graphic library usage.
+> also know the working system of recall functions and trigger event.
+
+## how to us
+
+> click **acllibl.exe** and run & play
+
+
 # 飞碟大战坦克小游戏
 
 ## 我做的第一个基于C语言完成的小游戏
@@ -9,3 +24,5 @@
 ## 具体使用方法
 
 > 点击**acllibl.exe**文件运行即可
+
+![images](https://github.com/DAZHAdazha/C--UFOvsTANK-game-/blob/master/1.jpg)
